@@ -1,0 +1,19 @@
+Criar o repositorio no github nome: 
+dio-desafio-github-primeiro-repositorio
+Deixar o repositorio publico
+Add Readme file
+CLICAR EM create repository
+Modiicar o readme para : 
+Desafio de Proejto sobre Git/GitHub do DIO
+Respositorio criado para o Desafio de Projeto
+
+##Links Uteis
+[Links Uteis](Link Marc Daw)
+
+Agora vamos clonar o projeto para o Git
+git clone + colar o link. 
+
+git add . 
+git status 
+git commit -m "Inclusao das anotacoes do curso de Git/GitHub"
+git push origin main
